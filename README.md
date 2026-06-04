@@ -1,13 +1,9 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Faria%20Waseer&fontSize=44&fontColor=ffffff&color=0:6E40C9,100:0ea5e9"
-    alt="Faria Waseer header"
-    width="100%">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fairywsr&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+Full-Stack+Engineer;FastAPI+%7C+React+%7C+LangChain+%7C+Gemini;Building+smart+AI+systems+%F0%9F%A4%96;Learning+every+single+day+%F0%9F%94%A5"
-       alt="subtitle typing">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=radical" />
 </p>
 
 <h1 align="center">Hi, I'm Faria Waseer 👋</h1>
