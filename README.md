@@ -1,58 +1,69 @@
-<h3 align="left">👋 Hi there, I'm Faria Waseer!</h3>
+# Hi, I'm Faria 👋
 
-###
+> CS Final Year Student · AI & Full-Stack Developer · Building things that matter
 
-<p align="left">Welcome to my GitHub! I'm a passionate self-taught web developer with a growing interest in full-stack development. I enjoy turning ideas into real-world applications using HTML, CSS, JavaScript, and exploring backend tools like Node.js, Express, and MongoDB.<br><br>🔭 Currently building projects to sharpen my skills<br>🌱 Learning React, REST APIs, and modern web practices<br>💡 Exploring problem-solving, UI/UX design, and clean code architecture<br>📚 Always eager to learn, grow, and contribute to open-source</p>
+---
 
-###
+### 🚀 Currently Working On
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+- 🎓 **FYP** — *Smart Query Routing & Email Automation System* — an AI-powered communication hub for streamlining student query management at universities
+- 💡 **21-Day JavaScript Challenge** — building consistency, one day at a time
 
+---
 
-###
+### 🛠 Tech Stack
 
-<div align="left">
-  <a href="https://www.instagram.com/fairywsr" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:fairywsr@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/fairywsr/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+**Languages**
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fairywsr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fairywsr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Frameworks & Libraries**
 
-###
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+**AI & Tools**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail_API-D14836?style=flat&logo=gmail&logoColor=white)
+
+---
+
+### 🌟 Featured Project
+
+#### 🤖 Smart Query Routing & Email Automation System
+> *Final Year Project — Supervised by Ma'am Saima Jamil*
+
+An AI-powered communication hub that intelligently routes student queries, automates email responses, and supports multi-channel communication via Email & WhatsApp — making university communication smarter and faster.
+
+**Stack:** `FastAPI` `React.js` `LangChain` `Google Gemini` `Claude API` `PostgreSQL` `n8n` `Gmail API` `Baileys (WhatsApp)`
+
+---
+
+### 📊 GitHub Stats
+
+![Faria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fairywsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Let's Connect
+
+- 📍 Pakistan
+- 💌 Open to collaborations & interesting projects
+- 🐙 **github.com/fairywsr**
+
+---
+
+<p align="center">
+  <i>"Consistency beats perfection." — committing daily, learning always. 🔥</i>
+</p>
