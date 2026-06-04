@@ -75,9 +75,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fairywsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fairywsr&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=radical&hide_border=true" height="165">
 </p>
 <p>
   <img src="https://streak-stats.demolab.com?user=fairywsr&theme=tokyonight&hide_border=true" height="165">
