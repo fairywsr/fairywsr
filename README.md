@@ -74,14 +74,18 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fairywsr&show_icons=true&theme=radical" /> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=radical" />
-</p>
 <p>
   <img src="https://streak-stats.demolab.com?user=fairywsr&theme=tokyonight&hide_border=true" height="165">
 </p>
+
+<p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fairywsr&show_icons=true&theme=radical" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=radical" />
+</p>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/fairywsr/fairywsr/output/snake.svg" alt="Snake animation">
