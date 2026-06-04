@@ -1,140 +1,101 @@
-<div align="center">
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Faria%20Waseer&fontSize=44&fontColor=ffffff&color=0:6E40C9,100:0ea5e9"
+    alt="Faria Waseer header"
+    width="100%">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Faria&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Full-Stack%20%7C%20CS%20Final%20Year&descAlignY=55&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+Full-Stack+Engineer;FastAPI+%7C+React+%7C+LangChain+%7C+Gemini;Building+smart+AI+systems+%F0%9F%A4%96;Learning+every+single+day+%F0%9F%94%A5"
+       alt="subtitle typing">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+Smart+AI+Systems+%F0%9F%A4%96;Python+%7C+React+%7C+FastAPI+%7C+LangChain;Learning+every+single+day+%F0%9F%94%A5)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Faria Waseer 👋</h1>
+<p align="center">
+  CS Final Year Student · AI & Full-Stack Developer · Building an AI-powered communication hub for universities.
+</p>
 
-</div>
-
----
-
-## 🙋‍♀️ About Me
-
-```python
-class Faria:
-    def __init__(self):
-        self.name       = "Faria"
-        self.role       = "CS Final Year Student"
-        self.location   = "Pakistan 🇵🇰"
-        self.university = "Final Year — FYP in progress"
-        self.languages  = ["Python", "JavaScript", "TypeScript"]
-        self.interests  = ["AI/ML", "Full-Stack Dev", "Automation"]
-
-    def current_focus(self):
-        return [
-            "🎓 FYP: Smart Query Routing & Email Automation System",
-            "💡 21-Day JavaScript Challenge",
-            "🚀 Building in public on GitHub"
-        ]
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fairywsr&label=Profile%20views&color=6E40C9" alt="profile views">
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## Snapshot
 
-<div align="center">
+- 🎓 Final year CS student working on an **AI-powered Smart Query Routing & Email Automation System**
+- 🤖 Building with LangChain, Google Gemini, Claude API, FastAPI and React
+- 💡 Currently grinding a **21-day JavaScript challenge**
+- 🌱 Consistent committer — 388 total contributions and growing
+- 📍 Pakistan
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## What I do
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**AI APIs & Tools**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail_API-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</div>
+- Build practical AI products — from idea to deployed app
+- Develop full-stack web applications with clean UX
+- Automate workflows using n8n, Gmail API, and WhatsApp (Baileys)
+- Learn in public and ship daily on GitHub
 
 ---
 
 ## 🚀 Featured Project
 
-<div align="center">
+<table>
+  <tr>
+    <td><strong>Smart Query Routing & Email Automation System</strong></td>
+    <td>AI-powered communication hub that intelligently routes student queries and automates responses via Email & WhatsApp. Final Year Project.</td>
+    <td>In Progress</td>
+  </tr>
+</table>
 
-### 🤖 Smart Query Routing & Email Automation System
-*Final Year Project — Supervised by Ma'am Saima Jamil*
+**Stack:** FastAPI · React.js · LangChain · Google Gemini · Claude API · PostgreSQL · n8n · Gmail API · Baileys (WhatsApp)
 
-</div>
+---
 
-> An AI-powered communication hub that intelligently routes student queries, automates email responses, and supports multi-channel communication via **Email & WhatsApp** — making university communication smarter and faster.
+## 🛠 Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| 🧠 AI Core | LangChain + Google Gemini + Claude API |
-| ⚙️ Backend | FastAPI + PostgreSQL |
-| 🎨 Frontend | React.js + Tailwind CSS |
-| 📧 Channels | Gmail API + Baileys (WhatsApp) |
-| 🔄 Automation | n8n workflows |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white">
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fairywsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=fairywsr&theme=tokyonight&hide_border=true" height="165">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fairywsr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fairywsr&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/fairywsr/fairywsr/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/fairywsr/fairywsr/output/snake.svg" alt="Snake animation">
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Connect
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fairywsr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
+- 🐙 github.com/fairywsr
+- 📍 Pakistan · Open to collaborations
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-fairywsr-181717?style=for-the-badge&logo=github)](https://github.com/fairywsr)
-[![Email](https://img.shields.io/badge/Email-Open%20to%20Work-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=fairywsr&color=6E40C9&style=flat-square&label=Profile+Views)
-
-*"Consistency beats perfection." — committing daily, learning always. 🔥*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  "Consistency beats perfection." — committing daily, learning always. 🔥
+</p>
