@@ -75,7 +75,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fairywsr&show_icons=true&theme=radical" /> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fairywsr&layout=compact&theme=radical" />
 </p>
