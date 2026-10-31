@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Faria%20Waseer&fontSize=44&fontColor=ffffff&color=0:6E40C9,100:0ea5e9"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Faria&fontSize=44&fontColor=ffffff&color=0:6E40C9,100:0ea5e9"
     alt="Faria header"
     width="100%">
 </p>
