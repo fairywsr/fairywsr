@@ -10,7 +10,7 @@
        alt="subtitle typing">
 </p>
 
-<h1 align="center">Hi, I'm Faria Waseer 👋</h1>
+<h1 align="center">Hi, I'm Faria 👋</h1>
 <p align="center">
   CS Final Year Student · AI & Full-Stack Developer · Building an AI-powered communication hub for universities.
 </p>
